@@ -1,0 +1,7 @@
+Architecture: iphoneos-arm
+Name: Guns of Boom AutoTouch Script
+Package: com.Chipshop82.gob
+Version: 1.0.0
+Maintainer: Chipshop82
+Description: Guns of Boom AutoTouch Script for automating ad playback.
+Section: Scripts
